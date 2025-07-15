@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Variables de entorno
+.env
+
+# Compilados
+dist/
+build/
+
+# Archivos de logs
+*.log
+
+# Otros
+.DS_Store
+
+# Archivo de las notas para hacerme memoria de cosas
+NOTAS.txt
